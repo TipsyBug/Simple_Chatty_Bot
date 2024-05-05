@@ -1,0 +1,7 @@
+*gradle*
+*.yaml
+*.class
+.idea
+Topics
+Simple Chatty Bot/task/out
+Simple Chatty Bot/task/build
