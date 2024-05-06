@@ -16,7 +16,7 @@ This program requires Java to compile and run.
 ## Installation
 
 - Download this repository and unzip the .zip file in your desired location.
-- Using the command line, navigate to /Simple Chatty Bot/.
+- Open a terminal, then navigate to the project root.
 - Compile the program using the command ```javac "Simple Chatty Bot\task\src\bot\SimpleBot.java"```.
 - Run the program using the command ```java -cp "Simple Chatty Bot\task\src" bot.SimpleBot```.
 
@@ -25,6 +25,7 @@ This program requires Java to compile and run.
 The symbol > represents the user input. Notice that it's not the part of the input.
 
 ```
+> java -cp "Simple Chatty Bot\task\src" bot.SimpleBot
 Hello! My name is Aid.
 I was created in 2018.
 Please remind me your name.
